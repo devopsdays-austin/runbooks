@@ -1,6 +1,8 @@
-# Runbook Templates
+# Finance
 
-Use this template to write up a runbook for your area of concern.
+Ensure the budget is created and maintained. Pay all the things. Interface with ConferenceOps.
+
+Generally, this is a core role.
 
 ## Role description
 
