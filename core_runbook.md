@@ -19,15 +19,16 @@ This role is responsible for the conference being held each year. They set the t
 
 ## Important Dates
 
-* **Early September:** Kick off budget discussions
-* **Early October:** Pick venue
-* **October:** Confirm organizers
-* **December:** Start org dinner
-* **Late December:** Ensure sponsor prospectus goes out
-* **Late December:** Ensure CFP goes out
-* **Early January:** Kick off weekly meetings
-* **January:** Ensure marketing is off and running
-* **Late January:** Ensure registration opens
+* **May:** Kick off venue search, if needed
+* **Early August:** Kick off budget discussions
+* **Early September:** Pick venue
+* **September:** Confirm organizers
+* **October:** Start org dinner
+* **Late October:** Ensure sponsor prospectus goes out
+* **Late October:** Ensure CFP goes out
+* **Early November:** Kick off semimonthly meetings
+* **November:** Ensure marketing is off and running
+* **Late November:** Ensure registration opens
 * **February:** Ensure swag is off and running
 * **Late February:** Ensure early bird closes
 * **April:** Check on volunteers
