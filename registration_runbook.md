@@ -51,3 +51,7 @@ What dates are important for this role? The following headings and details are e
 
 What do you always try to remember when you come back to this every year? Do you often find yourself scrambling for vendors? Are you always trying to remember where you left your towel? Leave notes for the next person so we can improve :)
 
+## Refund Requests
+
+Requests for refunds of an individual's ticket are automatically approved with appropriate justification like "I forgot to use a code" (if the code is still valid) or "my talk got accepted".
+Provide documentation in the form of a trello ticket and receipts showing the original ticket refund and the new ticket in the Receipts/Refunds folder
