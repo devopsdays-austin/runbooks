@@ -44,3 +44,5 @@ This role is the face of each talk track. The person who fills this role introdu
 ## Reminders or Common Mistakes
 
 What do you always try to remember when you come back to this every year? Do you often find yourself scrambling for vendors? Are you always trying to remember where you left your towel? Leave notes for the next person so we can improve :)
+
+* As a fantastic reference, [Heidi Waterhouse wrote up information on how to be a great MC](https://heidiwaterhouse.com/2020/07/09/lady-conference-speaker-now-more-than-ever/#:~:text=of%20your%20talk.-,MC%20work,-One%20of%20my). 
