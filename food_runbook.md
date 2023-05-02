@@ -1,53 +1,41 @@
 # Food
 
-Use this template to write up a runbook for your area of concern.
+Most venues make their money off of food sales by requiring you to use their vendor or themselves. Depending on the venue, the food organizer may be the same as the venue organizer. If there is a separate food organizer, work closely with the venue lead to make sure everyone gets fed.
 
 ## Role description
 
-What does this role do? What are you primarily responsible for?
+Your job is to make sure that the attendees get two square meals and an afternoon snack each day.
 
 ### General Tasks
 
-Can you name typical tasks? For example:
+* Setup breakfast for day 1 and day 2
+* Setup lunch for Day 1 and day 2
+* Setup afternoon snack break for day 1 and day 2
+### Notes on Food
 
-* Write a compelling CFP (the CFP committee)
-* Requisition a unique annual logo (swag)
-* etc.
-
-## Important Dates
-
-What dates are important for this role? The following headings and details are examples.
-
-### In the beginning
-
-* Come up with good stage jokes.
+* Self-serivce grab-and-go food is the most efficient way to do it. In years past we either served meals or had attendees serve themselves buffet style. This meant that lunch and breakfast could take up to two hours based on attendee count. By having boxed or pre-packaged meals you save time that can be used for more talks or open spaces.
+* The general rule of thumb for vegan / gluten free options is 20% of the total headcount. Make sure that those meals are segregated away so that they aren't grabbed by mistake. This happened in 2022. For 2023 people will ask someone from the catering company for vegan and gluten free meals.
+* You are feeding everyone, including volunteers, organizers, sponsors, and attendees. Make sure to use the total headcount for planning.
 
 ### 3 Months Out
 
-* Find vendors for your stage costume.
+* Determine what vendor you need to go with for food. In most cases the venue will require that you use their food or a preferred vendor. 
+* If you are using an outside vendor, get at least three quotes for each meal. Breakfast tacos in the morning are always a hit. Sandwiches from Central Market are a great lunch option. 
 
 ### 2 Months Out
 
-* Try on the costume.
+* Get a contract signed with your food vendors. They usually need at least two months of lead time to get things in order.
 
-### 1 Month Out
+### Two Weeks Before
 
-* Sell out the sponsorships.
-
-### The Week Before
-
-* Panic.
+* Check in with the food vendor and make any last-minute adjustments. I.e. if the attendee count is low scale back the amount of food.
 
 ### The Day Before
 
-* Set up.
-* Party.
+* If hiring an outside vendor, get the information on when they'll arrive. Arrange for drop off and placing the food.
 
 ### The Day Of
 
-* Get on stage.
+* Make sure that food is delivered on time and in the right locations. 
 
-## Reminders or Common Mistakes
-
-What do you always try to remember when you come back to this every year? Do you often find yourself scrambling for vendors? Are you always trying to remember where you left your towel? Leave notes for the next person so we can improve :)
 
