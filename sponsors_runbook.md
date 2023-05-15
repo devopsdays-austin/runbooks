@@ -18,9 +18,9 @@ Sponsor revenue is usually the primary income source for the event. Starting as 
 * Sponsors will ask for all sorts of things - be comfortable saying 'no'
 * It is OK to discourage or reject sponsors that do not fit or that might be problematic
 * Value the sponsorship opportunities you are selling - if you do not, your sponsors will not
-* Do not discount unless there is a very good reason - and do so ONLY with the agreement of the core team. There are a LOT of companies that want to connect with Austin's community
+* Do not discount unless there is a very good reason - and do so ONLY with the agreement of the core team. There are a LOT of companies that want to connect with Austin's community, so there is usually someone else who will buy at full price
 * Maintain a very short decision loop between yourself and the core organizers - you need to be able to respond to sponsors quickly (think within 12-24 hours) when they ask something off-the-wall
-* Maintain a very close working relationship with Laura (ConferenceOps) - she is awesome and your best operational resource
+* Maintain a very close working relationship with Laura Wickett (ConferenceOps) - she is awesome and your best operational resource. She also knows what sponsors are doing with other DevOpsDays events.
 * Never assume a sponsor understands something or has the correct expectation - ALWAYS send it in writing and do not be afraid to repeat yourself
 
 ## Important Dates
@@ -33,8 +33,8 @@ Sponsor revenue is usually the primary income source for the event. Starting as 
 
 ### 6 Months (or more) Out
 
-* Create / Publish Sponsorship Opportunity Prospectus
-* Create / Publish Sponsorship FAQ 
+* Create / Publish Sponsorship Opportunity Prospectus [2023 Example](https://docs.google.com/presentation/d/1nIaF0lFzH7HzIDhx3_t6noQ4LLqK0TEDO0ihsNB1WHU/edit?usp=share_link)
+* Create / Publish Sponsorship FAQ [2023 Example](https://docs.google.com/document/d/1cHkYV2jt4WX-xi9uxCBn6RyLzI6cJdwGLQ-dLpWFMhs/edit?usp=share_link)
 * Create internal Sponsor Tracking spreadsheet for tracking communications, fulfillment, email boilerplate, common links/tools, whatever you need to operate
 * Open sales - message all prior attendees and sponsors; announce on social media channels
 
@@ -56,7 +56,7 @@ Sponsor revenue is usually the primary income source for the event. Starting as 
 * Make sure all sponsor attendees are registered / ticketed
 * Begin sending instructions and updates to sponsor contacts and registered sponsor attendees
 * Work with braoder team to ensure sponsor activities (shout outs, happy hour, giveaways, etc.) are integrated into run-of-show schdule 
-* Prepare and send summary "Sponsor Instructions" document and distribute to paid sponsors
+* Prepare and send summary "Sponsor Instructions" document and distribute to paid sponsors. [2023 Example](https://docs.google.com/document/d/1tmIvvFEKnqu_EeYe1bcA4p_zLEC9sFRVrr7gWwO93CU/edit?usp=share_link)
 
 ### Two Weeks Before
 
