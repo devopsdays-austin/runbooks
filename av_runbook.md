@@ -6,7 +6,7 @@ This role does the preparatory work and day-of work in order to provide the audi
 
 ### General Tasks
 
-####Before event: 
+#### Before event: 
 - Inventory and maintenance of owned audio/visual equipment
 - Planning the locations and necessary equipment to throw the event
 - Planning with volunteer coordinators for necessary staffing 
