@@ -1,53 +1,73 @@
 # Speakers/CFP
 
-Use this template to write up a runbook for your area of concern.
+Scope:
+
+This document is the expectations and scope of what the CFP team should be do for DevOpsDays Austin.
+Most of these are points are expected, but to be completely clear this is minimal expectations.
 
 ## Role description
 
-What does this role do? What are you primarily responsible for?
+The CFP commitee (or team) is the group of individuals that brings the agenda together for the event. Without
+the CFP commitee the event would have a challanging time bringing people together to discuss and engage
+in our DevOps focuesed event. Many of the talks that we help curate help shape the converstations and
+Open Spaces for DoD ATX, and takes commitment throughout the year to understand what would bring the
+best converastions to Austin.
 
 ### General Tasks
 
 Can you name typical tasks? For example:
 
 * Write a compelling CFP (the CFP committee)
-* Requisition a unique annual logo (swag)
-* etc.
+* Engage with the Open Source communities that we are privliged to be apart of
+* Vote and read all the CFPs that are proposed
+* Attempt to be at every meeting for the smaller and larger team, things can change quickly and CFPs can be effected
+* Recurit or indentify possible Key Note speakers
+* Work closely with the Sponsorship and Core team to make sure that the ratio of talks to workshops to open spaces is reasonable
+* Comment or filter out "sales pitches" actively through the Open CFP process
+* Administer the CFP software for DoD ATX
+* Timely answer any and all questions for that comes in from possible or future speakers
+* Attend and Run the Office Hours, pre and post CFP for new and experianced speakers
 
 ## Important Dates
 
-What dates are important for this role? The following headings and details are examples.
-
 ### In the beginning
 
-* Come up with good stage jokes.
+* Copy the previous years CFP, make any changes for the new theme from Core
+* Verify that the CFP software is ready from Global Core
+* Start discussing with the Venue team to verify options if the venue has changed for workshops and breakout spaces
 
-### 3 Months Out
+### 7-5 Months Out
 
-* Find vendors for your stage costume.
+* Prepare the CFP and publicly annouce the CFP were you can. (the specific day will require feedback from Core)
+* Start discussing with possible people for Key Note slots or conversations they believe they would like to share.
+* Recruit speakers!
+* Recruit speakers!
+* Recruit speakers!
 
-### 2 Months Out
+### 4 months Out
 
-* Try on the costume.
+* Start a cadance of the Office Hours (once a week or some reasonable process)
+
+### 3-2 months Out
+
+* Close down the CFP
+* Start to vote and recruit others from either outside or inside the Org team to help vote on the speakers
+* Send out the speaker acceptences
+* Continue a cadance of the Office Hours (once a week or some reasonable process)
 
 ### 1 Month Out
 
-* Sell out the sponsorships.
-
-### The Week Before
-
-* Panic.
-
-### The Day Before
-
-* Set up.
-* Party.
+* Verify the speakers and nothing has changed last minute
+* Continue a cadance of the Office Hours (once a week or some reasonable process)
 
 ### The Day Of
 
-* Get on stage.
+* Be prepared to MC the breakout rooms
+* Be there for the speakers and what they may need
+* Remember you are the representive of DoD ATX to many of these speakers, be there and friendly!
 
 ## Reminders or Common Mistakes
 
-What do you always try to remember when you come back to this every year? Do you often find yourself scrambling for vendors? Are you always trying to remember where you left your towel? Leave notes for the next person so we can improve :)
-
+* Spend "real time" with the CFP software before opening the CFP. It can be tricky
+* You DONT have to "promote" a someone in via the CFP, you can recruit your Key Note(s) speaker(s)
+* Gain the muscule to find "sales pitches" abstracts, but don't beat yourself up if one slips through
