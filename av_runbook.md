@@ -23,18 +23,18 @@ This role does the preparatory work and day-of work in order to provide the audi
 #### During Event: 
 - Transporting and organizing load-in and setup of equipment on load-in day to meet plan 
 - Ensuring sound in main room is running well 
--- Speakers have suitable microphones with charged batteries 
--- Audio mixer is staffed 
--- Audio sounds good
+  - Speakers have suitable microphones with charged batteries 
+  - Audio mixer is staffed 
+  - Audio sounds good
 - Ensuring video in main room is running well 
--- Cameras are staffed, working and feeding video
--- Video mixer is staffed and feeding projectors 
--- Projectors are operating 
--- Recording is happening 
+  - Cameras are staffed, working and feeding video
+  - Video mixer is staffed and feeding projectors 
+  - Projectors are operating 
+  - Recording is happening 
 - Ensuring sound in secondary room is running well 
--- (above list) 
+  - (above list) 
 - Ensuring video in secondary room is running well 
--- (above list) 
+  - (above list) 
 - Assist timing staff with making sure speakers start and finish on time 
 - Provide equipment and staff to happy hour if it’s happening
 
