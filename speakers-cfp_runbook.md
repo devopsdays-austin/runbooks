@@ -67,5 +67,5 @@ best conversations to Austin.
 ## Reminders or Common Mistakes
 
 * Spend "real time" with the CFP software before opening the CFP. It can be tricky
-* You DONT have to "promote" a someone in via the CFP, you can recruit your Key Note(s) speaker(s)
+* You DON'T have to "promote" someone who submitted via the CFP to a keynote slot. Recruit your keynote speaker(s) as needed.
 * Gain the muscule to find "sales pitches" abstracts, but don't beat yourself up if one slips through
