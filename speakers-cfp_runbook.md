@@ -24,7 +24,11 @@ best conversations to Austin.
 * Comment or filter out "sales pitches" actively through the Open CFP process
 * Administer the CFP software for DoD ATX
 * Timely answer any and all questions for that comes in from possible or future speakers
-* Attend and Run the Office Hours, pre and post CFP for new and experianced speakers
+* Attend and Run the Office Hours, pre and post CFP for new and experienced speakers
+* Finalize the speaker list
+* Send out acceptances
+* Schedule the speakers in coordination with core
+* MC the stages day of in coordination with core
 
 ## Important Dates
 
