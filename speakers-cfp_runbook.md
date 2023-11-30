@@ -34,7 +34,7 @@ best conversations to Austin.
 
 ### In the beginning
 
-* Copy the previous years CFP, make any changes for the new theme from Core
+* Copy the previous year's CFP and make any changes for the new theme from Core
 * Verify that the CFP software is ready from Global Core
 * Start discussing with the Venue team to verify options if the venue has changed for workshops and breakout spaces
 
