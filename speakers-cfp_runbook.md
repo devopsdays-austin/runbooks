@@ -19,7 +19,7 @@ best conversations to Austin.
 * Engage with the Open Source communities that we are privileged to be a part of
 * Vote and read all the CFPs that are proposed
 * Attempt to be at every meeting for the smaller and larger team (things can change quickly and CFPs can be affected)
-* Recurit or indentify possible Key Note speakers
+* Recruit or identify possible keynote speakers
 * Work closely with the Sponsorship and Core team to make sure that the ratio of talks to workshops to open spaces is reasonable
 * Comment or filter out "sales pitches" actively through the Open CFP process
 * Administer the CFP software for DoD ATX
