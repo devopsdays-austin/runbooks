@@ -56,7 +56,7 @@ best conversations to Austin.
 ### 1 Month Out
 
 * Verify the speakers and nothing has changed last minute
-* Continue a cadance of the Office Hours (once a week or some reasonable process)
+* Continue a cadence of the Office Hours (once a week or some reasonable process)
 
 ### The Day Of
 
