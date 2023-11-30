@@ -49,7 +49,7 @@ best conversations to Austin.
 
 ### 4 months Out
 
-* Start a cadance of the Office Hours (once a week or some reasonable process)
+* Start a cadence of the Office Hours (once a week or some reasonable process)
 
 ### 3-2 months Out
 
