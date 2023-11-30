@@ -40,7 +40,8 @@ best conversations to Austin.
 
 ### 7-5 Months Out
 
-* Prepare the CFP and publicly annouce the CFP were you can. (the specific day will require feedback from Core)
+* Prepare the CFP
+* Announce the CFP where you can. Coordinate with Core and Marketing.
 * Start discussing with possible people for Key Note slots or conversations they believe they would like to share.
 * Recruit speakers!
 * Recruit speakers!
