@@ -68,4 +68,4 @@ best conversations to Austin.
 
 * Spend "real time" with the CFP software before opening the CFP. It can be tricky
 * You DON'T have to "promote" someone who submitted via the CFP to a keynote slot. Recruit your keynote speaker(s) as needed.
-* Gain the muscule to find "sales pitches" abstracts, but don't beat yourself up if one slips through
+* Gain the muscle to find "sales pitches" abstracts, but don't beat yourself up if one slips through
