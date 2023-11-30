@@ -15,8 +15,6 @@ best conversations to Austin.
 
 ### General Tasks
 
-Can you name typical tasks? For example:
-
 * Write a compelling CFP (the CFP committee)
 * Engage with the Open Source communities that we are privliged to be apart of
 * Vote and read all the CFPs that are proposed
