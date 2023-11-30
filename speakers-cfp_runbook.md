@@ -11,7 +11,7 @@ The CFP commitee (or team) is the group of individuals that brings the agenda to
 the CFP commitee the event would have a challanging time bringing people together to discuss and engage
 in our DevOps focuesed event. Many of the talks that we help curate help shape the converstations and
 Open Spaces for DoD ATX, and takes commitment throughout the year to understand what would bring the
-best converastions to Austin.
+best conversations to Austin.
 
 ### General Tasks
 
