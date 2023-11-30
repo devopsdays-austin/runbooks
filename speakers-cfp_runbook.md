@@ -55,7 +55,7 @@ best conversations to Austin.
 
 * Close down the CFP
 * Start to vote and recruit others from either outside or inside the Org team to help vote on the speakers
-* Send out the speaker acceptences
+* Send out the speaker acceptances
 * Continue a cadence of the Office Hours (once a week or some reasonable process)
 
 ### 1 Month Out
