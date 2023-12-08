@@ -85,19 +85,20 @@ This includes badges, lanyards, t-shirts, and gifts for speakers/organizers/volu
 
 ### The Day Before
 
-* Fix up the badges if they need to be in plastic sleeves, etc
-* Handout organizer shirts
-* Fold T Shirts
+* Badges
+  * Obtain list of late registrations that did not have name printed on badges and print names on labels
+  * Coordinates with volunteers to place badges in plastic sleeves if required
+  * Coordinates with volunteers to organize badges
+* Coordinates with volunteers to handout organizer shirts
+* Coordinates with volunteers to fold T Shirts
 * Hand out speaker gifts to speaker dinner.
 
 ### The Day Of
 
 * Be Excellent
-* Set up
-  * ensure there's a printing machine or marker for the blank badges
-  * setup shirt station
-  * setup badge station
-* Ensure volunteers know where swags are located and organized
+* Final printing of labels for late registrations and/or sharpie names on badges
+* Coordinate with volunteers to setup shirt station
+* Coordinate with volunteers to setup badge station
 
 
 ## Reminders or Common Mistakes
@@ -105,3 +106,4 @@ This includes badges, lanyards, t-shirts, and gifts for speakers/organizers/volu
 * Badges are tough.  It is a fine line between badge production time and names on badges. There are a lot of folks who sign up to attend the conference late and the fancier the badge the longer the production time.
 * Try and find a local badge vendor.
 * Decide on the logo early. The logner it takes to get the logo the less time you have for everything else.
+* Keep some of the swag (shirts and gifts) for future years to give out.
