@@ -32,12 +32,12 @@ This includes badges, lanyards, t-shirts, and gifts for speakers/organizers/volu
 ## Important Dates
 ### In the beginning
 
-* What is the theme for the conference.  This will influence the logo
+* What is the theme for the conference.  This will influence the annual swag designs
 
 ### 3 Months Out
 
-* Start the logo process.
-* Identify candidates to create the logo
+* Start the annual swag designs process.
+* Identify candidates to create the annual swag designs
 * Find vendors for shirts & gifts
 * Find and work with artists (artist search post and contract)
 * Review budget & requirements (# of attendees)
@@ -53,7 +53,7 @@ This includes badges, lanyards, t-shirts, and gifts for speakers/organizers/volu
       * Organizers
       * Volunteers
     * Speaker gifts
-    * Start designing the badge. Usually the logo is involved and a double sided badge with name on both sides is preferable.  Typically the vendor will help with the desogn process.
+    * Start designing the badge. The logo and annual swag designs involved and a double sided badge with name on both sides is preferable.  Typically the vendor will help with the desogn process.
     * Start the lanyard process based on expected number of attendees.  The lanyards must at a minimum have the sponsors logo and it is nice to have the DevOpsDaysAustin logo.  A lot of time was spent back and forth about getting the DevOpsDaysAustin logo on the lanyard.
 * Review current budget
 
@@ -105,5 +105,5 @@ This includes badges, lanyards, t-shirts, and gifts for speakers/organizers/volu
 
 * Badges are tough.  It is a fine line between badge production time and names on badges. There are a lot of folks who sign up to attend the conference late and the fancier the badge the longer the production time.
 * Try and find a local badge vendor.
-* Decide on the logo early. The logner it takes to get the logo the less time you have for everything else.
+* Decide on the annual swag designs early. The logner it takes to get the annual swag designs the less time you have for everything else.
 * Keep some of the swag (shirts and gifts) for future years to give out.
