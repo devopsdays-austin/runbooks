@@ -11,7 +11,7 @@ This includes badges, lanyards, t-shirts, and gifts for speakers/organizers/volu
 
 ### General Tasks
 
-* Coordinating the creation of the logo
+* Coordinating the creation of the annual swag designs
   - **Need to know the theme**
   - draft artist search.  
   - search for artist(s)
