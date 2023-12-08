@@ -30,9 +30,6 @@ This includes badges, lanyards, t-shirts, and gifts for speakers/organizers/volu
   - Select vendor, designs for lanyard
 
 ## Important Dates
-
-What dates are important for this role? The following headings and details are examples.
-
 ### In the beginning
 
 * What is the theme for the conference.  This will influence the logo
