@@ -91,4 +91,4 @@ TBD
 
 * Spend "real time" with the CFP software before opening the CFP. It can be tricky.
 * You DONT have to "promote" a someone in via the CFP, you can help recruit keynote speakers and provide feedback when needed from core
-* Gain the muscule to find "sales pitches" abstracts, but don't beat yourself up if one slips through
+* Gain the muscle to find "sales pitches" abstracts, but don't beat yourself up if one slips through
