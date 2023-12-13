@@ -1,53 +1,39 @@
 # Website
 
-Use this template to write up a runbook for your area of concern.
-
 ## Role description
 
-What does this role do? What are you primarily responsible for?
+This organizer role is responsible for creating, updating, and maintaining the yearly page on the devopsdays.org website for the city.
 
 ### General Tasks
 
-Can you name typical tasks? For example:
-
-* Write a compelling CFP (the CFP committee)
-* Requisition a unique annual logo (swag)
-* etc.
+* Set up the year's pages using the script for devopsdays.org
+* Update the pages with the prospectus, CFP, registration, sponsor logos, speaker photos, schedule, and anything else due.
+* Be the liasion for the devopsdays.org repo for any and all PRs or issues.
 
 ## Important Dates
 
-What dates are important for this role? The following headings and details are examples.
-
 ### In the beginning
 
-* Come up with good stage jokes.
+* Run the script and manage the PR for creating the year's pages on devopsdays.org
 
-### 3 Months Out
+### Reactive timing
 
-* Find vendors for your stage costume.
-
-### 2 Months Out
-
-* Try on the costume.
-
-### 1 Month Out
-
-* Sell out the sponsorships.
-
-### The Week Before
-
-* Panic.
+* Post the prospectus and update the dates in the YAML file when available
+* Post the CFP and update the dates in the YAML file when available
+* Post the registration and update the dates in the YAML file when available
+* Post sponsor logos and links as they come in and get approved
+* Post the speaker list, photos, and schedule as they come in and get approved
+* Make changes as necessary based on activities (e.g., a speaker has to cancel)
 
 ### The Day Before
 
-* Set up.
-* Party.
+* Check that the schedule is ready and functioning properly.
 
 ### The Day Of
 
-* Get on stage.
+* Work with the open spaces volunteer to update the schedule.
+* Make updates if there are any day-of changes.
 
 ## Reminders or Common Mistakes
 
-What do you always try to remember when you come back to this every year? Do you often find yourself scrambling for vendors? Are you always trying to remember where you left your towel? Leave notes for the next person so we can improve :)
-
+* Use the scripts global core offers! That ensures things like the `/austin` shortlink works.
