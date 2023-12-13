@@ -32,7 +32,7 @@ best conversations to Austin.
 * Schedule the speakers in coordination with core
 * MC the stages day of in coordination with core
 * Timely answer any and all questions for that comes in from possible or future speakers
-* Attend and Run the Office Hours, pre and post CFP for new and experianced speakers
+* Attend and Run the Office Hours, pre and post CFP for new and experienced speakers
 * Create and lead the Program Committee
 
 ### Program Committee
