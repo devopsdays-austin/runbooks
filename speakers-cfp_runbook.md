@@ -31,6 +31,19 @@ best conversations to Austin.
 * Maintain "on deck" contingency speakers, ready in case of dropouts
 * Schedule the speakers in coordination with core
 * MC the stages day of in coordination with core
+* Timely answer any and all questions for that comes in from possible or future speakers
+* Attend and Run the Office Hours, pre and post CFP for new and experianced speakers
+* Create and lead the Program Committee
+
+### Program Committee
+
+TBD
+
+#### Leader(s)
+- TBD Expected respsonsibilities
+
+#### Member
+- TBD Expected respsonsibilities
 
 ## Important Dates
 
@@ -63,7 +76,10 @@ best conversations to Austin.
 ### 1 Month Out
 
 * Verify the speakers and nothing has changed last minute
-* Continue a cadence of the Office Hours (once a week or some reasonable process)
+* Continue a cadance of the Office Hours (once a week or some reasonable process)
+* Work in partnership with the core team to build out the schedule for the event.
+* Maintain communication with the speakers.
+* Provide feedback on alignment with the theme and focus on attendee experience.
 
 ### The Day Of
 
@@ -73,6 +89,6 @@ best conversations to Austin.
 
 ## Reminders or Common Mistakes
 
-* Spend "real time" with the CFP software before opening the CFP. It can be tricky
-* You DON'T have to "promote" someone who submitted via the CFP to a keynote slot. Recruit your keynote speaker(s) as needed.
-* Gain the muscle to find "sales pitches" abstracts, but don't beat yourself up if one slips through
+* Spend "real time" with the CFP software before opening the CFP. It can be tricky.
+* You DONT have to "promote" a someone in via the CFP, you can help recruit keynote speakers and provide feedback when needed from core
+* Gain the muscule to find "sales pitches" abstracts, but don't beat yourself up if one slips through
