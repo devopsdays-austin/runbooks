@@ -2,7 +2,7 @@
 
 Scope:
 
-This document is the expectations and scope of what the CFP team should be do for DevOpsDays Austin.
+This document is the expectations and scope of what the CFP team should be & do for DevOpsDays Austin.
 Most of these are points are expected, but to be completely clear this is minimal expectations.
 
 ## Role description
@@ -23,10 +23,12 @@ best conversations to Austin.
 * Work closely with the Sponsorship and Core team to make sure that the ratio of talks to workshops to open spaces is reasonable
 * Comment or filter out "sales pitches" actively through the Open CFP process
 * Administer the CFP software for DoD ATX
-* Timely answer any and all questions for that comes in from possible or future speakers
+* Timely answer any and all questions for that come in from possible or future speakers
 * Attend and Run the Office Hours, pre and post CFP for new and experienced speakers
 * Finalize the speaker list
 * Send out acceptances
+* Send graceful rejections (w/ encouragement to attend)
+* Maintain "on deck" contingency speakers, ready in case of dropouts
 * Schedule the speakers in coordination with core
 * MC the stages day of in coordination with core
 
@@ -42,7 +44,7 @@ best conversations to Austin.
 
 * Prepare the CFP
 * Announce the CFP where you can. Coordinate with Core and Marketing.
-* Start discussing with possible people for Key Note slots or conversations they believe they would like to share.
+* Start discussing with possible people for keynote slots or conversations they believe they would like to share.
 * Recruit speakers!
 * Recruit speakers!
 * Recruit speakers!
