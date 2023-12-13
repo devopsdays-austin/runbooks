@@ -76,7 +76,7 @@ TBD
 ### 1 Month Out
 
 * Verify the speakers and nothing has changed last minute
-* Continue a cadance of the Office Hours (once a week or some reasonable process)
+* Continue a cadence of the Office Hours (once a week or some reasonable process)
 * Work in partnership with the core team to build out the schedule for the event.
 * Maintain communication with the speakers.
 * Provide feedback on alignment with the theme and focus on attendee experience.
