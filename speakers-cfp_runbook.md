@@ -42,10 +42,10 @@ Committee members _should_ _not_ propose talks/workshops/panels due to the confl
 
 #### Leader(s)
 
-* Setup the feedback form LINK (update and/or iterate on it)
+* Copy and use the [feedback form](https://docs.google.com/document/d/1hEkxcQ8PHLahI8uhzx7b9Lzv_fr73QeBqq0A7ZysNOk/edit?usp=share_link).
   * Verify the voting is still relevant.
 * Recruit N (at minimum 5) number of committee members; DoD ATX has anywhere between 100-200 CFPs and expects chunks of 15-20 CFPs per member with overlap.
-* Use the spreadsheet LINK to help organize the committee
+* Copy and use [the spreadsheet](https://docs.google.com/spreadsheets/d/1itBbeAJlnWrdxzxH8d0_ZugIHjUJ7rfxf5__P3OxTeo/edit?usp=share_link) to help organize the committee
 * Distribute the CFPs and feedback form to the members, receive them when completed, and transfer relevant information to the organization spreadsheet
 * Set a reasonable timeline for feedback forms; normally, we have a “week” between the close and announcement of the acceptances.
 * They should only vote if “needed” on talks; if there is a gap in coverage of only 1 person voting, a Leader can fill in for it. Voting should come from non-leadership members to help get non-biased opinions.
