@@ -6,50 +6,27 @@ Generally, this is a core role.
 
 ## Role description
 
-What does this role do? What are you primarily responsible for?
+For Finance, the primary responsibility lies with the core organizers, to establish the budget prior to the conference and keep folks on track to pull off a great conference day-of while leaving enough to get things started again next year (target is $100K remaining after the conference is complete, to make a venue deposit, pay vendors before sponsorships start coming in, and pay for ongoing maintenance and conference development costs).
+
+There is a secondary responsibility which lies with all organizers and volunteers, to keep the entire team updated with a clear understanding of what has been committed to, what has been spent, what reimbursement is needed, and any other information which would affect the financial status of the conference.
 
 ### General Tasks
 
-Can you name typical tasks? For example:
+* Establish budget (Core) Due [pre-kickoff](https://github.com/moutons/runbooks/blob/main/core_runbook.md), around 10 months out
+* Maintain budget (Everyone) ongoing
+* Perform periodic budget review (Core) 6 months prior to the conference
+* Perform periodic budget review (Core) when early bird sales close
+* Perform periodic budget review (Core) 3 months prior to the conference
+* Submit expenses (Them what spent it, via email, add the receipt in the year's Receipts folder)
+* Reimburse expenses (Core, ConferenceOps) onging
+* Ensure charitable contributions are handled (Core, ConferenceOps) Due by the end of May
+* Books for the year close (Core, ConferenceOps) Due in June
 
-* Write a compelling CFP (the CFP committee)
-* Requisition a unique annual logo (swag)
-* etc.
+## TODO
 
-## Important Dates
-
-What dates are important for this role? The following headings and details are examples.
-
-### In the beginning
-
-* Come up with good stage jokes.
-
-### 3 Months Out
-
-* Find vendors for your stage costume.
-
-### 2 Months Out
-
-* Try on the costume.
-
-### 1 Month Out
-
-* Sell out the sponsorships.
-
-### The Week Before
-
-* Panic.
-
-### The Day Before
-
-* Set up.
-* Party.
-
-### The Day Of
-
-* Get on stage.
+* Improve reimbursement process
+* 501c3? that'll complicate this function a bit but hopefully in a good way
 
 ## Reminders or Common Mistakes
 
 What do you always try to remember when you come back to this every year? Do you often find yourself scrambling for vendors? Are you always trying to remember where you left your towel? Leave notes for the next person so we can improve :)
-
