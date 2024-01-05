@@ -37,7 +37,7 @@ best conversations to Austin.
 
 ### Program Committee
 
-The program committee is a selection of (at least) 5 people who will be voting on the proposed CFPs for our conference. They will help shape and decide on the agenda and content; this is a fundamental job responsibility; please only volunteer if you understand and are willing to commit to it.
+The program committee is a selection of (at least) 5 people who will be voting on the proposed CFPs for our conference. The program committee membership should reflect principles of diversity, equity, and inclusion. This should allow a wider cross section of perspectives when it comes to selecting talks. They will help shape and decide on the agenda and content; this is a fundamental job responsibility; please only volunteer if you understand and are willing to commit to it.
 Committee members _should_ _not_ propose talks/workshops/panels due to the conflict of interest; if they plan on offering content to the event, they should recuse themselves from the program committee.
 
 #### Leader(s)
