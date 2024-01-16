@@ -37,13 +37,31 @@ best conversations to Austin.
 
 ### Program Committee
 
-TBD
+The program committee is a selection of (at least) 5 people who will be voting on the proposed CFPs for our conference. The program committee membership should reflect principles of diversity, equity, and inclusion. This should allow a wider cross section of perspectives when it comes to selecting talks. They will help shape and decide on the agenda and content; this is a fundamental job responsibility; please only volunteer if you understand and are willing to commit to it.
+Committee members _should_ _not_ propose talks/workshops/panels due to the conflict of interest; if they plan on offering content to the event, they should recuse themselves from the program committee.
 
 #### Leader(s)
-- TBD Expected respsonsibilities
+
+* Copy and use the [feedback form](https://docs.google.com/document/d/1hEkxcQ8PHLahI8uhzx7b9Lzv_fr73QeBqq0A7ZysNOk/edit?usp=share_link).
+  * Verify the voting is still relevant.
+* Recruit N (at minimum 5) number of committee members; DoD ATX has anywhere between 100-200 CFPs and expects chunks of 15-20 CFPs per member with overlap.
+* Copy and use [the spreadsheet](https://docs.google.com/spreadsheets/d/1itBbeAJlnWrdxzxH8d0_ZugIHjUJ7rfxf5__P3OxTeo/edit?usp=share_link) to help organize the committee
+* Distribute the CFPs and feedback form to the members, receive them when completed, and transfer relevant information to the organization spreadsheet
+* Set a reasonable timeline for feedback forms; normally, we have a “week” between the close and announcement of the acceptances.
+* They should only vote if “needed” on talks; if there is a gap in coverage of only 1 person voting, a Leader can fill in for it. Voting should come from non-leadership members to help get non-biased opinions.
+* Set up an introduction meeting with the members and a “scoring” meeting with the members, and be willing to work with the members if needed.
 
 #### Member
-- TBD Expected respsonsibilities
+
+* Read through each CFP that is assigned to you.
+* Understand that there is a real-time commitment to being a committee member; you must research and make real decisions on the agenda.
+* Understand the voting, -2, -1, 0, 1, 2 rubric
+  * -2 Extremely Negative, “You don’t think it fits or have strong negative opinions.”
+  * -1 Negative, “This doesn’t seem to fit the bill, or something isn’t right.”
+  * 0 Indifferent, “You have no real feeling about this talk.”
+  * 1 Positive, “You believe this could fit, but I won’t fight for it.”
+  * 2 Extremely Positive, “You want this talk at our conference.”
+* Attend any meeting that needs to happen to build the agenda or give a reason why you cannot.
 
 ## Important Dates
 
