@@ -8,8 +8,6 @@ The role of registration is centered around the idea of selling / supplying DevO
 
 ### General Tasks
 
-Can you name typical tasks? For example:
-
 * Setup the Ticket Registratiation Tool (Verbage, Finalize Ticket Prices, Vendor Codes, etc.).
 * Work with Website Organizer Team to coordinate when we should promote ticket sales (Early Bird, Normal Sale, etc.).
 * Work with Swag Organizer Team to ensure we have enough t-shirts for the total number of attendees.
