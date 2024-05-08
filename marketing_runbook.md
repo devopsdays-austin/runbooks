@@ -1,53 +1,63 @@
 # Marketing
 
-Use this template to write up a runbook for your area of concern.
-
 ## Role description
 
 What does this role do? What are you primarily responsible for?
+This role is responsible for the image, branding, social media posts, and everything else that has to do with what an attendee or potential attendee sees or hears about DoD Austin.
 
 ### General Tasks
 
 Can you name typical tasks? For example:
 
-* Write a compelling CFP (the CFP committee)
-* Requisition a unique annual logo (swag)
+* Creating social media posts
+* Desiging swag(stickers, tees, banners)
+* Creating digital assets as needed
 * etc.
 
 ## Important Dates
 
-What dates are important for this role? The following headings and details are examples.
+Speaker signups
+CFP
+Event Date
 
 ### In the beginning
 
-* Come up with good stage jokes.
+* Repost local meetup info
+* Plan omni channel marketing strategy
 
 ### 3 Months Out
 
-* Find vendors for your stage costume.
+* Finalize tee design
+* Schedule and post to social media
+* Reiterate call for volunteers
 
 ### 2 Months Out
 
-* Try on the costume.
+* Post speaker cards
+* Post session talks
 
 ### 1 Month Out
 
-* Sell out the sponsorships.
+* Post speaker cards
+* Post session talks
+* Finalize training material for day-of posts from volunteers and orgs
 
 ### The Week Before
 
-* Panic.
+* Post speaker cards
+* Post session talks
 
 ### The Day Before
 
-* Set up.
-* Party.
+* Post every few hours
 
 ### The Day Of
 
-* Get on stage.
+* Interact with folks who post their experiences via social media (like, reply, repost)
+* Coordinate with marketing volunteers to get social posts drafted and sent out
+* Ensure the conference is being represented appropriately
 
 ## Reminders or Common Mistakes
 
-What do you always try to remember when you come back to this every year? Do you often find yourself scrambling for vendors? Are you always trying to remember where you left your towel? Leave notes for the next person so we can improve :)
+Weekly, Daily, Semi-hourly posts across multiple channels that target folks in our demographic
 
