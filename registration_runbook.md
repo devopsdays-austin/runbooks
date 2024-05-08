@@ -9,7 +9,7 @@ The role of registration is centered around the idea of selling / supplying DevO
 ### General Tasks
 
 * Setup the Ticket Registratiation Tool (Verbage, Finalize Ticket Prices, Vendor Codes, etc.).
-* Work with Website Organizer Team to coordinate when we should promote ticket sales (Early Bird, Normal Sale, etc.).
+* Work with Website and Core Organizer Team to coordinate when we should promote ticket sales (Early Bird, Normal Sale, etc.).
 * Work with Swag Organizer Team to ensure we have enough t-shirts, lanyards, and badges for the total number of attendees.
 * Work with Volunteer Organizer Team to properly staff registration tables each morning / afternoon of the conference.
 * Various emails / reminders sent out leading up to the conference to make sure everyone understands expectations + rules.
