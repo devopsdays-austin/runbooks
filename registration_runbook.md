@@ -32,7 +32,7 @@ The role of registration is centered around the idea of selling / supplying DevO
 
 ## Reminders or Common Mistakes
 
-**Important Note: Prior to 2024 we used Eventbrite (2024 will be the first year we are using X tool), so keep in mind some of the common mistakes may be framed around using the Eventbrite tool.**
+**Important Note: Prior to 2024 we used Eventbrite (2024 will be the first year we are using the Pretix tool), so keep in mind some of the common mistakes may be framed around using the Eventbrite tool.**
 
 * Ensure Ticket Registration does not open early (before early-bird sales date).
 * Set dates for reminder emails to go out before and after the conference.
