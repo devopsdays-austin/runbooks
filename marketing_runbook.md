@@ -1,11 +1,9 @@
 # Marketing
 
-This
-
 ## Role description
 
 What does this role do? What are you primarily responsible for?
-This role is responsible for the image, branding, social media posts, and everything else that has to do with what an attendee or potential attendee see's or hears about DoD Austin.
+This role is responsible for the image, branding, social media posts, and everything else that has to do with what an attendee or potential attendee sees or hears about DoD Austin.
 
 ### General Tasks
 
@@ -30,7 +28,8 @@ Event Date
 ### 3 Months Out
 
 * Finalize tee design
-* Schedule and post social media p
+* Schedule and post to social media
+* Reiterate call for volunteers
 
 ### 2 Months Out
 
@@ -41,6 +40,7 @@ Event Date
 
 * Post speaker cards
 * Post session talks
+* Finalize training material for day-of posts from volunteers and orgs
 
 ### The Week Before
 
@@ -53,10 +53,11 @@ Event Date
 
 ### The Day Of
 
-* Interact with ICP via social media
-* Ensure the brand is being displayed appropriately
+* Interact with folks who post their experiences via social media (like, reply, repost)
+* Coordinate with marketing volunteers to get social posts drafted and sent out
+* Ensure the conference is being represented appropriately
 
 ## Reminders or Common Mistakes
 
-Weekly, Daily, Semi-hourly posts across multiple channels that target our ICP
+Weekly, Daily, Semi-hourly posts across multiple channels that target folks in our demographic
 
