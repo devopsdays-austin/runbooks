@@ -29,4 +29,6 @@ There is a secondary responsibility which lies with all organizers and volunteer
 
 ## Reminders or Common Mistakes
 
-What do you always try to remember when you come back to this every year? Do you often find yourself scrambling for vendors? Are you always trying to remember where you left your towel? Leave notes for the next person so we can improve :)
+* Keep watch on the receipts coming in, and ensure everyone is actually submitting them in real time.
+* Try to get estimates in as soon as possible
+* Call audibles early should you need to trim budgets before people spend too long getting quotes.
