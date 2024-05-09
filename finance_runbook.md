@@ -12,15 +12,19 @@ There is a secondary responsibility which lies with all organizers and volunteer
 
 ### General Tasks
 
-* Establish budget (Core) Due [pre-kickoff](https://github.com/moutons/runbooks/blob/main/core_runbook.md), around 10 months out
-* Maintain budget (Everyone) ongoing
-* Perform periodic budget review (Core) 6 months prior to the conference
-* Perform periodic budget review (Core) when early bird sales close
-* Perform periodic budget review (Core) 3 months prior to the conference
-* Submit expenses (Them what spent it, via email, add the receipt in the year's Receipts folder)
-* Reimburse expenses (Core, ConferenceOps) onging
-* Ensure charitable contributions are handled (Core, ConferenceOps) Due by the end of May
-* Books for the year close (Core, ConferenceOps) Due in June
+* **July:** Establish budget (Core) [pre-kickoff](https://github.com/moutons/runbooks/blob/main/core_runbook.md)
+* **July-May:** Maintain budget (Everyone)
+* **November:** Perform periodic budget review (Core)
+* **January:** Perform periodic budget review (Core) when early bird sales close
+* **February:** Perform periodic budget review (Core)
+* **July-May:** Submit expenses (Them what spent it, via email, add the receipt in the year's Receipts folder)
+* **July-May:** Reimburse expenses (Core, ConferenceOps)
+* **Late May:** Ensure charitable contributions are handled (Core, ConferenceOps)
+* **June:** Close books for the year (Core, ConferenceOps)
+
+## Time Expectations
+
+TBD
 
 ## TODO
 

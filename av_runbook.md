@@ -18,7 +18,7 @@ This role does the preparatory work and day-of work in order to provide the audi
 - Making or acquiring cables of the correct length 
 - Ensure rechargeable batteries are all charged and tested 
 - Staging equipment for load-in
-- Our equipment is organized in the shed currently by type/role; it needs to be re-organized into bins for day-of.  
+    - Our equipment is organized in the shed currently by type/role; it needs to be re-organized into bins for day-of.  
 
 #### During Event: 
 - Transporting and organizing load-in and setup of equipment on load-in day to meet plan 
@@ -44,41 +44,18 @@ This role does the preparatory work and day-of work in order to provide the audi
 - Re-organize equipment into bins-by-type and inventory capital equipment
 - If video was recorded, transcode and upload to streaming services as required 
 
+## Time Expectations
+
+TBD
+
 ## Important Dates
 
-### In the beginning
-
-* TBD: Venue selection
-* TBD: Kickoff meeting (Nov/Dec): Should have visited the venue and know the scope of this year's equipment needs and a/v design. Identify any budget needs and communicate them to core team. 
-
-### 3 Months Out
-
-- Should unpack and inventory the storage shed and pull equipment that will be used. Next few months should be spent testing equipment and replacing consumables, making cables if necessary, and ordering equipment if necesary. 
-
-### 2 Months Out
-
-- By now volunteer organizer should be getting volunteer counts and have reached out to volunteers, so get your needs over to them. 
-
-### 2 Weeks Out
-
-- Hold training for volunteers
-
-### The Week Before
-
-- Know how equipment is getting to the venue for load-in and have it organized into bins.
-
-### The Day Before
-
-* Set up.
-
-### The Day Of
-
-* Make sure it runs smoothly -- see day-of above
-
-### Afterwards
-
-* Get equipment back to storage shed, and inventory it to make sure everything got there. 
-* Get equipment that was packed into bins for each stage sorted back into bins by type of equipment and use. 
+* **May:** Explore A/V concerns during the venue search, as needed. Visit the venue and know the scope of this year's equipment needs and a/v design. Identify any budget needs and communicate them to core team.
+* **February:** Inventory the storage shed and pull equipment that will be used. Test equipment, replace consumables, make cables if necessary, and order equipment if necesary. 
+* **Early March:** Get needs to volunteer organizer
+* **Early April:** Train volunteers
+* **Late April**: Confirm transportation, load in, and load out plan. Have all gear preloaded and organized into bins if possible.
+* **May:** Set up and run pre-event checks. After the event, return to storage shed, inventory, and reorganize.
 
 ## Reminders or Common Mistakes
 
