@@ -1,4 +1,4 @@
-# Venue
+# Venue Organizer
 
 Venue and food represent the majority of the conference budget. Your job directly affects every other functional area and impacts the conference budget. The venue determines how many attendees can come, how many sponsorships can be sold, the food options, AV equipment needed, etc.
 
@@ -72,14 +72,14 @@ When you start the venue search, prepare to ask a lot of questions. Here are a f
 
 * Pay the rest of the venue rental fee. Work with Conference Ops to get this paid via invoice.
 * Provide the venue with a list of all sponsors / exhibitors, and a list of all food vendors (coordinate with the food organizer).
-* Get conference insurance. We are required to provide a Certificate of Insurance (COI). It should cover DevOpsDays Austin and all of our exhibitors / sponsors. The minimum coverage required is a combined single limit of $1,000,000 per occurrence and a minimum aggregate of $1,000,000 It must have the following language added:
+* Get conference insurance. We are required to provide a Certificate of Insurance (COI). It should cover DevOpsDays Austin and all of our exhibitors / sponsors. The minimum coverage required is a combined single limit of $1,000,000 per occurrence and a minimum aggregate of $1,000,000. In 2025 we went with [Lacey Katzer](mailto:lacey@yatesinsurance.com) of [Yates Insurance]. [Here's the COI from 2025.](https://drive.google.com/file/d/1mwXYbAU-IpzI1xmFY0fGtWiJ9qidUDfE/view?usp=drive_link)(http://www.yatesinsurance.com/). The COI must have the following language added:
 >In the description section:
 >"TCEA is included as additional insured where required by written contract for DeveopsDays Austin | MM-DD-YYYY - MM-DD-YYYY"
 
 > In the certificate holder section: 
 > TCEA Conference Center
 >3100 Alvin Devane Blvd. Building B
->Austin, TX 78741 
+>Austin, TX 78741
 
 ### The Week Before
 

@@ -17,7 +17,7 @@ Your job is to host a light mixer on day one where attendees can mix and mingle.
 * Sponsors will need to setup tables at the happy hour so make sure there's room available for them.
 * If you host at a bar and use a tab, make sure that the bartenders cap the amount of spend so you don't go over budget.
 
-### 3 Months Out
+### 6 Months Out
 
 * Determine where you'll host happy hour. 
 * Get a quote from the venue for snacks and open bar. If hosting at Meanwhile, use the 2025 food line item as a starting point for budget.
@@ -34,4 +34,4 @@ Your job is to host a light mixer on day one where attendees can mix and mingle.
 
 The [TCEA](https://tcea.org/) is a non-profit that works primarily with educators to provide support for computer based education. We could theoretically host Happy Hour at the venue but we'd need to add extra insurance coverage and figure out how to leverage the space.
 
-There are two nearby breweries that are great spots for Happy Hour: [Meanwhile Brewing](https://www.meanwhilebeer.com/) and [Pinthosue Brewing](https://pinthouse.com/). We hosted the 2025 Happy Hour at Meanwhile Brewing and everyone enjoyed it. We also came in well under budget. Pinthouse has less room and less food options.
+There are two nearby breweries that are great spots for Happy Hour: [Meanwhile Brewing](https://www.meanwhilebeer.com/) and [Pinthosue Brewing](https://pinthouse.com/). We hosted the 2025 Happy Hour at Meanwhile Brewing and everyone enjoyed it. We also came in well under budget. Pinthouse has less room and less food options than Meanwhile.
