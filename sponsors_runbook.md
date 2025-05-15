@@ -12,8 +12,8 @@ This role is responsible for managing the interaction with sponsors from sales t
 * Manage sponsor fulfillment during the event and ensure that they have a great experience
 
 ### General Guidance on Sponsors
-Sponsor revenue is usually the primary income source for the event. Starting as early as possible - ideally as soon as the budget is set - is crucial. Getting sponsors signed on as early as possible represents important cashflow for the event's budget. This is where the cash comes from to pay vendors, etc. Early revenue is particularly important as some of the biggest expenses (venue, catering) expect payment or large deposits up-front and therefore relatively early in the event planning cycle.
 
+* Sponsor revenue is the primary source of income for the event. Starting as early as possible - ideally as soon as the budget is set - is crucial. Getting sponsors signed on as early as possible represents important cashflow for the event's budget. This is where the cash comes from to pay vendors, etc. Early revenue is particularly important as some of the biggest expenses (venue, catering) expect payment or large deposits up-front and therefore relatively early in the event planning cycle.
 * Sponsor experience is important, but it is lower in importance than attendee experience
 * Sponsors will ask for all sorts of things - be comfortable saying 'no'
 * It is OK to discourage or reject sponsors that do not fit or that might be problematic
@@ -89,6 +89,11 @@ Sponsor revenue is usually the primary income source for the event. Starting as 
 * Make sure Happy Hour sponsors show up for Happy Hour setup
 * Expect a flurry of activity/questions for the first half of the first day - a lot of sponsor people will not RTFM
 
+### 1 - 2 Weeks After
+
+* Send out a post event [sponsor survey](https://docs.google.com/forms/d/1Zn2qcWwbvSAfF07RXfYJWF7p1lFcX5aAmn4kXSeXWA8/edit). It's important to get check in with the sponsors to see if there's any room for improvement.
+* Add the sponsors to the sponsors mailing list in [Sendy](https://lists.devopsdays.org/login) in preparation for next years conference.
+
 ## Reminders or Common Mistakes
 
 * Always sign your emails as sponsor coordinator of the event
@@ -120,4 +125,4 @@ The [TCEA](https://tcea.org/) is a non-profit that works primarily with educator
 * Lanyard Sponsor
 * Happy Hour Sponsor
 
-TCEA can provide tablecloths and monitors for sponsors at additional cost. Work with the venue and sponsors to coordinate getting thme this equipment if they need it.
+TCEA can provide tablecloths and monitors for sponsors at additional cost ($150 per 24" monitor, $15 per tablecloth). Work with the Venue Organizer and sponsors to coordinate getting them this equipment if they need it. Make sure to ask sponsors how many parking spaces they need and coordinate with the Parking Organizer to get the spots reserved.
