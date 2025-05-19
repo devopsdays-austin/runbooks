@@ -57,7 +57,7 @@ This role is responsible for managing the interaction with sponsors from sales t
 * Ask sponsors if they need a tablecloth or a monitor and coordinate with the venue to get these lined up
 * Ask sponsors how many parking spaces they need and coordinate with the Transportation Organizer to reserve them
 * Begin sending instructions and updates to sponsor contacts and registered sponsor attendees
-* Work with braoder team to ensure sponsor activities (shout outs, happy hour, giveaways, etc.) are integrated into run-of-show schdule
+* Work with broader team to ensure sponsor activities (shout outs, happy hour, giveaways, etc.) are integrated into run-of-show schdule
 * Prepare and send summary "Sponsor Instructions" document and distribute to paid sponsors. [2023 Example](https://docs.google.com/document/d/1tmIvvFEKnqu_EeYe1bcA4p_zLEC9sFRVrr7gWwO93CU/edit?usp=share_link)
 
 ### Two Weeks Before
