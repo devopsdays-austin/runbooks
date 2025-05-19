@@ -1,6 +1,6 @@
-# Venue
+# Venue Organizer
 
-Venue and food represent the majority of the conference budget. Your job directly affects every other functional area and the budget. The venue determines how many attendees can come, how many sponsorships can be sold, the food options, AV equipment needed, etc. 
+Venue and food represent the majority of the conference budget. Your job directly affects every other functional area and impacts the conference budget. The venue determines how many attendees can come, how many sponsorships can be sold, the food options, AV equipment needed, etc.
 
 ## Role description
 
@@ -12,13 +12,15 @@ The venue lead is responsible for making sure that the venue is setup to run the
 
 ### General Tasks
 
-The venue lead is the glue that holds the conference together. Your job is to make sure that the venue has all the space and equipment to put on a great conference. You'll also be coordinating with many of your fellow leads so that their functional areas are setup for success. 
+The venue lead is the glue that holds the conference together. Your job is to make sure that the venue has all the space and equipment to put on a great conference. You'll also be coordinating with many of your fellow leads so that their functional areas are setup for success.
+
 * Coordinate with the venue on layout.
 * Arrange a walk-through for the organizer team.
 * Work with the AV lead to hammer out AV needs.
 * Work with the sponsor lead to organize where sponsors will setup.
 * Work with the volunteer lead to arrange where registration will happen.
 * Work with the swag lead to decide where swag will be distributed from.
+
 ### General Guidance on Venues
 Most venues make their money by locking you into their vendors for food, AV, etc. That's how they make their money. Hotels are the most expensive places to host a conference, but they're also setup exclusively to host them. If you go with a venue that's not a hotel, you may still be required to use their food vendor. You need an estimate of the conference size to start determining a venue. A good rule of thumb is that most non-hotels can handle 400 or less attendees. Above 400 attendees, you will probably be locked into using a hotel.
 
@@ -54,18 +56,30 @@ When you start the venue search, prepare to ask a lot of questions. Here are a f
 * How is the venue secured overnight? Do we need to hire a security guard?
 * Is there space to host a happy hour? If not, conduct a search of nearby places for happy hour.
 * Are there smaller rooms for open spaces? Can large rooms be subdivided with air walls? Open spaces are the most important part of the conference.
+
 ### 6 Months Out
 
 * Identify the venue. You need at least six months of lead time in order to organize the conference, so the venue must be locked in. The venue will determine how many of the functional areas work so they'll need plenty of lead time to get organized.
 * Pay the deposit and agree to the fee schedule.
-* Organize an organizer site survey. Find a time that works during the day (lunch is best) and schedule a site survey for the rest of the organizers. Take lots of pictures and share them in case someone can't attend. If an area lead can't make it, be prepared to ask questions on their behalf.
+* Organize an organizer site survey. Find a time that works during the day (morning is best) and schedule a site survey for the rest of the organizers. Take lots of pictures and share them in case someone can't attend. If an area lead can't make it, be prepared to ask questions on their behalf.
 * Determine the conference layout. Use powerpoint or LucidChart to come up with a diagram. Use this to determine how many sponsors you can fit it, how many talk tracks, and the guest total.
+
 ### 3 Months Out
 
 * Finalize the venue contract. It should include line items for everything you're paying for. Udpate the conference spreadsheet with the projected cost. After this point the only thing to update with the conference is the guest total. Keep an eye on ticket sales and adjust the contract (and costs) as needed.
+
 ### <1 Month Out
 
 * Pay the rest of the venue rental fee. Work with Conference Ops to get this paid via invoice.
+* Provide the venue with a list of all sponsors / exhibitors, and a list of all food vendors (coordinate with the food organizer).
+* Get conference insurance. We are required to provide a Certificate of Insurance (COI). It should cover DevOpsDays Austin and all of our exhibitors / sponsors. The minimum coverage required is a combined single limit of $1,000,000 per occurrence and a minimum aggregate of $1,000,000. In 2025 we went with [Lacey Katzer](mailto:lacey@yatesinsurance.com) of [Yates Insurance]. [Here's the COI from 2025.](https://drive.google.com/file/d/1mwXYbAU-IpzI1xmFY0fGtWiJ9qidUDfE/view?usp=drive_link)(http://www.yatesinsurance.com/). The COI must have the following language added:
+>In the description section:
+>"TCEA is included as additional insured where required by written contract for DeveopsDays Austin | MM-DD-YYYY - MM-DD-YYYY"
+
+> In the certificate holder section: 
+> TCEA Conference Center
+>3100 Alvin Devane Blvd. Building B
+>Austin, TX 78741
 
 ### The Week Before
 
@@ -78,3 +92,14 @@ When you start the venue search, prepare to ask a lot of questions. Here are a f
 ### The Day Of
 
 * During the conference, make sure to check in with the venue to make sure everything is on schedule. Keep an eye on the other functional areas in case they need help with something from the venue. 
+
+## Notes on Current Venue - Texas Computer Education Associate (TCEA)
+
+The [TCEA](https://tcea.org/) is a non-profit that works primarily with educators to provide support for computer based education. Their conference center is advantageous for a couple of reasons:
+
+* It's cheap. Compared to other venues like the Etter-Harbin convention center, it's about a quarter of the cost.
+* Vendor flexibility. We are free to use our own vendors (especially food) which means we control cost without the usual food markup that gets tacked on at other vendors, or, worse, being forced to use their own catering.
+* Location. Though it's located in Southeast Austin, it's close to the airport and at the intersection of 183 and Ben White Boulevard, and a stones throw from 130. There are several hotels nearby.
+* Parking. The venue has 192 parking spots plus 15 additional on the road. Overflow parking is available at the nearby hotels. There's no threat of protests or dealing with graduation traffic.
+* AV. The venue has built in AV recording in the main ballroom and, with minimal equipment, we can record the second track.
+* Sponsor limits. We can fit 10 gold sponsors, 3 - 4 startup sponsors, and sell sponsorships for food, coffee, etc.
