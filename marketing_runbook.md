@@ -45,6 +45,7 @@ Event Date
 * Post session talks
 * Reiterate call for sponsors
 * Reiterate form for discounted tickets
+* Post schedule when it goes live
 * Finalize training material for day-of posts from volunteers and orgs
 
 ### The Week Before
