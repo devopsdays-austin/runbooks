@@ -7,16 +7,15 @@ This role is responsible for the image, branding, social media posts, and everyt
 
 ### General Tasks
 
-Can you name typical tasks? For example:
-
 * Creating social media posts
-* Desiging swag(stickers, tees, banners)
 * Creating digital assets as needed
-* etc.
+* Responding to folks who post experiences 
 
 ## Important Dates
 
 Speaker signups
+Last call for speakers
+Last call for early bird tickets
 CFP
 Event Date
 
@@ -24,28 +23,35 @@ Event Date
 
 * Repost local meetup info
 * Plan omni channel marketing strategy
+* Call for sponsors 
 
 ### 3 Months Out
 
-* Finalize tee design
 * Schedule and post to social media
+* Announce early bird tickets
 * Reiterate call for volunteers
+* Post form for discounted tickets
+* Call for sponsors
 
 ### 2 Months Out
 
 * Post speaker cards
 * Post session talks
+* Reiterate call for sponsors
 
 ### 1 Month Out
 
 * Post speaker cards
 * Post session talks
+* Reiterate call for sponsors
+* Reiterate form for discounted tickets
 * Finalize training material for day-of posts from volunteers and orgs
 
 ### The Week Before
 
 * Post speaker cards
 * Post session talks
+* Deadlines: last call for badges before they go to the printer
 
 ### The Day Before
 
@@ -56,6 +62,15 @@ Event Date
 * Interact with folks who post their experiences via social media (like, reply, repost)
 * Coordinate with marketing volunteers to get social posts drafted and sent out
 * Ensure the conference is being represented appropriately
+
+### The week after
+
+* Post pictures
+* Thank you on reposts
+
+### Throughout the year
+
+* Repost other DevOpsDays announcements
 
 ## Reminders or Common Mistakes
 
