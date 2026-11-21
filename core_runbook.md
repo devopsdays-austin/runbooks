@@ -32,7 +32,8 @@ This role is responsible for the conference being held each year. They set the t
 * **February:** Ensure swag is off and running
 * **Late February:** Ensure early bird closes
 * **April:** Check on volunteers
-* **May:** Host
+* **May:** Host. Handle charitable donations by EOM
+* **June:** Close books for the year
 
 ## Reminders or Common Mistakes
 
