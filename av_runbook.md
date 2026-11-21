@@ -33,7 +33,7 @@ This role does the preparatory work and day-of work in order to provide the audi
   - Recording is happening 
 - Ensuring sound in secondary room is running well 
   - (above list) 
-- Ensuring video in secondary room is running well 
+- Ensuring video in tertiary room is running well 
   - (above list) 
 - Assist timing staff with making sure speakers start and finish on time 
 - Provide equipment and staff to happy hour if it’s happening
@@ -73,7 +73,7 @@ This role does the preparatory work and day-of work in order to provide the audi
 
 ### The Day Of
 
-* Make sure it runs smoothly -- see day-of above
+* Make sure it runs smoothly -- see [During Event](#during-event) above
 
 ### Afterwards
 
