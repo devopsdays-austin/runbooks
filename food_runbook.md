@@ -1,15 +1,15 @@
 # Food
 
-Most venues make their money off of food sales by requiring you to use their vendor or themselves. Depending on the venue, the food organizer may be the same as the venue organizer. If there is a separate food organizer, work closely with the venue lead to make sure everyone gets fed. At our current venue, TCEA, we are allowed to choose whatever food vendors we want without any tax / charge by the venue.
+Most venues make their money off of food sales by requiring you to use their vendor or themselves. Depending on the venue, the food organizer may be the same as the venue organizer. If there is a separate food organizer, work closely with the venue lead to make sure everyone gets fed. At TCEA, we were allowed to choose whatever food vendors we wanted without any tax / charge by the venue. At Commons Conference Center, catering is provided and bringing in food/drink is discouraged, with allowances made for special situations.
 
 ## Role description
 
-Your job is to make sure that the attendees get two square meals and an afternoon snack each day. Coffee is a bonus.
+Your job is to make sure that the attendees get two square meals and an afternoon snack each day. Coffee is a bonus, but you will be celebrated for working it in.
 
 ### General Tasks
 
 * Setup breakfast for day 1 and day 2
-* Setup lunch for Day 1 and day 2
+* Setup lunch for day 1 and day 2
 * Setup afternoon snack break for day 1 and day 2
 * Setup a coffee vendor for day 1 and day 2
 * Setup beverage service for day 1 and day 2
@@ -32,14 +32,13 @@ Your job is to make sure that the attendees get two square meals and an afternoo
 ### Two Weeks Before
 
 * Check in with the food vendor and make any last-minute adjustments. I.e. if the attendee count is low scale back the amount of food.
-* Get a Certificate of Insurance (COI) for any food vendor that will be setting up on site; delivery food vendors do not need to supply a COI. The minimum coverage required is a combined single limit of $1,000,000 per occurrence and a minimum aggregate of $1,000,000 It must have the following language added:
->In the description section:
->"TCEA is included as additional insured where required by written contract for DeveopsDays Austin | MM-DD-YYYY - MM-DD-YYYY"
-
-> In the certificate holder section: 
-> TCEA Conference Center
->3100 Alvin Devane Blvd. Building B
->Austin, TX 78741 
+* Get a Certificate of Insurance (COI) for any food vendor that will be setting up on site; delivery food vendors do not need to supply a COI. The minimum coverage required is a combined single limit of $1,000,000 per occurrence and a minimum aggregate of $1,000,000. It must have the following language added:
+   * In the description section:
+    > "<VENUE_NAME> is included as additional insured where required by written contract for DevopsDays Austin | MM-DD-YYYY - MM-DD-YYYY"
+   * In the certificate holder section: 
+    > <VENUE_NAME><BR>
+    > <VENUE_STREET_BLDG_ADDRESS><BR>
+    > <VENUE_CITY_STATE_ZIP>
 
 ### The Day Before
 
@@ -52,8 +51,15 @@ Your job is to make sure that the attendees get two square meals and an afternoo
 * If there is any excess food, gather it up in the afternoon and take it to the [Austin Resource Center for the Homeless (ARCH)](https://communitycaretx.org/all-locations/austin-resource-center-for-the-homeless-clinic/). 
 * Police the food area to make sure that empty containers are removed and keep the selection fresh and topped off.
 
-## Notes on Current Venue - Texas Computer Education Associate (TCEA)
+## Reminders / Common Mistakes
 
-The [TCEA](https://tcea.org/) is a non-profit that works primarily with educators to provide support for computer based education. The venue allows us to use our own food vendors for breakfast, lunch, snack, and coffee service. The venue can provide daily beverage service including water, iced tea, and soft drinks.
+* "Unboxed" meals help to reduce waste by eliminating the outer box of a boxed meal.
+* Some venues can provide beverages, just not food.
+* If working with food trucks, check to see if the venue can provide outside power and/or water hookups, else ensure the food truck can provide their own.
+* Some ideas we've had are contracting with several food trucks for lunch to give people more options. However, keep in mind that you may need to add more time to the lunch schedule if you do so.
 
-For 2025, we went with [Tacodeli](https://www.tacodeli.com/catering-austin-tx-dallas-tx-houston-tx/) for breakfast tacos, [Central Market](https://www.centralmarket.com/catering) for "unboxed" boxed sandwich lunches, and [Tiff's Treats](https://www.cookiedelivery.com/catering) food truck for afternoon snacks. We used [Doxa Coffee Roasters](https://doxacoffeeroasters.com/)as our coffee vendor. The venue doesn't have outside power or water hookups for food trucks, so make sure that food trucks can provide their own power and water. Some ideas we've had are contracting with several food trucks for lunch to give people more options. However, keep in mind that you may need to add more time to the lunch schedule if you do so. One more important fact about the venue: they really prefer to minimize food waste, so having 'unboxed' meals is the what they want; Central Market knows how to make that happen.
+## Notes on Previous Venue - Texas Computer Education Associate (TCEA)
+
+The [TCEA](https://tcea.org/) is a non-profit that works primarily with educators to provide support for computer based education. The venue allowed us to use our own food vendors for breakfast, lunch, snack, and coffee service. The venue could provide daily beverage service including water, iced tea, and soft drinks.
+
+For 2025, we went with [Tacodeli](https://www.tacodeli.com/catering-austin-tx-dallas-tx-houston-tx/) for breakfast tacos, [Central Market](https://www.centralmarket.com/catering) for "unboxed" boxed sandwich lunches, and [Tiff's Treats](https://www.cookiedelivery.com/catering) food truck for afternoon snacks. We used [Doxa Coffee Roasters](https://doxacoffeeroasters.com/) as our coffee vendor. The venue didn't have outside power or water hookups for food trucks, so the food trucks needed to provide their own power and water.  One more important fact about the venue: they really prefer to minimize food waste, so having 'unboxed' meals is the what they want; Central Market knows how to make that happen.
