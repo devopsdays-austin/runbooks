@@ -24,14 +24,24 @@ Your job is to host a light mixer on day one where attendees can mix and mingle.
 
 ### Two Week Before
 
-* Check in with the vendor and adjust the haadcount up or down based on ticket sales.
+* Check in with the vendor and adjust the headcount up or down based on ticket sales.
 
 ### The Day Of
 
-* Make sure that happy hour setup goes smoothly. Get the sponsors situated. Make sure to have some background music going; use one of the portable PA systems.
+* Make sure that happy hour setup goes smoothly.
+* Get the sponsors situated.
+* Make sure to have some background music going; use one of the portable PA systems.
 
-## Notes on Current Venue - Texas Computer Education Associate (TCEA)
+## Reminders / Common Mistakes
 
-The [TCEA](https://tcea.org/) is a non-profit that works primarily with educators to provide support for computer based education. We could theoretically host Happy Hour at the venue but we'd need to add extra insurance coverage and figure out how to leverage the space.
+* Sometimes you can host Happy Hour at the venue, but it will require extra insurance coverage and planning on how to leverage the space.
+* [Meanwhile Brewing] (South Austin) hosted the 2025 Happy Hour, and everyone enjoyed it and we came in well under budget. They also have non-alcoholic beverages.
+* [Pinthouse Brewing] (5 locations) has less room and less food options than Meanwhile, and is unconfirmed on non-alcoholic beverage options.
 
-There are two nearby breweries that are great spots for Happy Hour: [Meanwhile Brewing](https://www.meanwhilebeer.com/) and [Pinthosue Brewing](https://pinthouse.com/). We hosted the 2025 Happy Hour at Meanwhile Brewing and everyone enjoyed it. We also came in well under budget. Pinthouse has less room and less food options than Meanwhile.
+## Notes on Previous Venue - Texas Computer Education Associate (TCEA)
+
+The [TCEA](https://tcea.org/) is a non-profit that works primarily with educators to provide support for computer based education. We could have theoretically hosted a Happy Hour at the venue but we'd need to add extra insurance coverage and figure out how to leverage the space. There are two nearby breweries that are great spots for Happy Hour: [Meanwhile Brewing] and [Pinthouse Brewing]. 
+
+<!-- Links -->
+[Meanwhile Brewing]: https://www.meanwhilebeer.com/
+[Pinthouse Brewing]: https://pinthouse.com/

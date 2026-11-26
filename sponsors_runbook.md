@@ -85,6 +85,8 @@ This role is responsible for managing the interaction with sponsors from sales t
 ### The Day Of
 
 * Have volunteers sign in with their name and a good phone number to contact them
+* Ensure volunteers know where box cutters or another sharp object is, and let the sponsors know we have it. Many sponsors fly in and have their boxes shipped and, due to airline restrictions, cannot bring a sharp object to open their boxes. This is probably one of the most common requests we get.
+* Introduce volunteers to venue coordinator, in the events sponsors request something we might not be able to assist with.
 * Introduce yourself and Sponsor Helper Volunteers to each table sponsor
 * Make sure Happy Hour sponsors show up for Happy Hour setup
 * Expect a flurry of activity/questions for the first half of the first day - a lot of sponsor people will not RTFM
@@ -113,7 +115,7 @@ This role is responsible for managing the interaction with sponsors from sales t
 4. Send a description of their sponsorship level and all entitlements to the sponsor so they have it explicitly spelled out what they've paid for. Send a link to the [Sponsorship FAQ](https://docs.google.com/document/d/1cHkYV2jt4WX-xi9uxCBn6RyLzI6cJdwGLQ-dLpWFMhs/edit?usp=share_link).
 5. Follow the rest of the runbook for when to send messages.
 
-## Notes on Current Venue - Texas Computer Education Associate (TCEA)
+## Notes on Previous Venue - Texas Computer Education Associate (TCEA)
 
 The [TCEA](https://tcea.org/) is a non-profit that works primarily with educators to provide support for computer based education. TCEA can provide the following opportunities for sponsors:
 

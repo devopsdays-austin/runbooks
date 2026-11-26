@@ -28,6 +28,7 @@ This includes badges, lanyards, t-shirts, and gifts for speakers/organizers/volu
   - Select vendor, designs for badges (note: get nicer ones so its a keepsake, recommended by Karthik)
 * Sponsor Lanyards
   - Select vendor, designs for lanyard
+  - Consider having 2 different color lanyards, if supporting "Color X == pictures of me ok" and "Color Y == pictures not ok"
 
 ## Important Dates
 ### In the beginning
@@ -47,14 +48,14 @@ This includes badges, lanyards, t-shirts, and gifts for speakers/organizers/volu
 * Meet to finalize the following
   * Artist(s) and the designs **need this to move forward with the rest**
   * Speaker gifts (Identify production time)
-  * Start engage vendors on pricing based on expected attendance.
+  * Start engaging vendors on pricing based on expected attendance.
     * Shirts
       * Day 1 and Day 2
       * Organizers
       * Volunteers
     * Speaker gifts
-    * Start designing the badge. The logo and annual swag designs involved and a double sided badge with name on both sides is preferable.  Typically the vendor will help with the desogn process.
-    * Start the lanyard process based on expected number of attendees.  The lanyards must at a minimum have the sponsors logo and it is nice to have the DevOpsDaysAustin logo.  A lot of time was spent back and forth about getting the DevOpsDaysAustin logo on the lanyard.
+    * Start designing the badge. The logo and annual swag designs involved and a double sided badge with name on one side is preferable (for those who prefer to maintain some privacy). Typically the vendor will help with the design process.
+    * Start the lanyard process based on expected number of attendees. The lanyards must have the sponsors logo at a minimum and it is nice to have the DevOpsDaysAustin logo.  A lot of time was spent back and forth about getting the DevOpsDaysAustin logo on the lanyard.
 * Review current budget
 
 ### 1 Month Out
@@ -87,11 +88,11 @@ This includes badges, lanyards, t-shirts, and gifts for speakers/organizers/volu
 
 * Badges
   * Obtain list of late registrations that did not have name printed on badges and print names on labels
-  * Coordinates with volunteers to place badges in plastic sleeves if required
-  * Coordinates with volunteers to organize badges
-* Coordinates with volunteers to handout organizer shirts
-* Coordinates with volunteers to fold T Shirts
-* Hand out speaker gifts to speaker dinner.
+  * Coordinate with volunteers to place badges in plastic sleeves if required
+  * Coordinate with volunteers to organize badges
+* Coordinate with volunteers to handout organizer shirts
+* Coordinate with volunteers to fold T Shirts
+* Hand out speaker gifts at speaker dinner.
 
 ### The Day Of
 
@@ -105,5 +106,5 @@ This includes badges, lanyards, t-shirts, and gifts for speakers/organizers/volu
 
 * Badges are tough.  It is a fine line between badge production time and names on badges. There are a lot of folks who sign up to attend the conference late and the fancier the badge the longer the production time.
 * Try and find a local badge vendor.
-* Decide on the annual swag designs early. The logner it takes to get the annual swag designs the less time you have for everything else.
+* Decide on the annual swag designs early. The longer it takes to get the annual swag designs the less time you have for everything else.
 * Keep some of the swag (shirts and gifts) for future years to give out.

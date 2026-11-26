@@ -2,23 +2,19 @@
 
 ## Role description
 
-What does this role do? What are you primarily responsible for?
 This role is responsible for the image, branding, social media posts, and everything else that has to do with what an attendee or potential attendee sees or hears about DoD Austin.
 
 ### General Tasks
 
-Can you name typical tasks? For example:
-
 * Creating social media posts
-* Desiging swag(stickers, tees, banners)
+* Designing swag (stickers, tees, banners)
 * Creating digital assets as needed
 * etc.
 
 ## Important Dates
 
-Speaker signups
-CFP
-Event Date
+* **Late October**: Speaker signups / CFP
+* **May**: Event Date
 
 ### In the beginning
 

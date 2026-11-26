@@ -37,3 +37,4 @@ This organizer role is responsible for creating, updating, and maintaining the y
 ## Reminders or Common Mistakes
 
 * Use the scripts global core offers! That ensures things like the `/austin` shortlink works.
+* Make sure the open spaces volunteer has access to  and an understanding of the scheduling product.

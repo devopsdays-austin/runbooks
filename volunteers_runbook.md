@@ -12,15 +12,13 @@ The Volunteer Organizer role is responsible for recruiting, organizing, and mana
 * Maintain a list of awesome volunteers from years past to reach out to.
 * Provide feedback to the organizers on volunteer needs and opportunities
 * Create the two day volunteer schedule for the event.
-* Discuss volunteer needs for each functional with the associated organizer.
+* Discuss volunteer needs for each function with the associated organizer.
 * Communicate with other organizers and volunteers.
 * Ensure volunteers are running with assigned areas.
 * Google Drive folder for Volunteers: https://drive.google.com/drive/folders/1pcy2CV-V2OvecrZfWUmXGQwrqiEbHZdO
 
 
 ## Important Dates
-
-What dates are important for this role? The following headings and details are examples.
 
 ### In the beginning
 
@@ -66,5 +64,5 @@ What dates are important for this role? The following headings and details are e
 
 ## Reminders or Common Mistakes
 
-* The sign up form can be tricky always do a test to yourself first before sending things out.
+* The sign up form can be tricky - always do a test yourself first before sending things out.
 
