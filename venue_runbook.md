@@ -35,23 +35,23 @@ Start the venue search. I cannot stress this enough. Most venues in town are boo
 
 When working with venues, explain how our conference works. Use some variation of the following description:
 
->DevOpsDays Austin is a two-day tech conference where attendees learn about DevOps culture and trends. Each day we start with a keynote for all attendes. We then break into talks in one or more tracks. In the afternoon we have open spaces, where attendees crowdsource topics to discuss in small groups. At the end of day one we have a happy hour for attendees. We provide breakfast and lunch for all attendees. We host the confrfernce with funding from sponsors and ticket sales.
+>DevOpsDays Austin is a two-day tech conference where attendees learn about DevOps culture and trends. Each day we start with a keynote for all attendes. We then break into talks in one or more tracks. In the afternoon we have open spaces, where attendees crowdsource topics to discuss in small groups. At the end of day one we have a happy hour for attendees. We provide breakfast and lunch for all attendees. We host the conference with funding from sponsors and ticket sales.
 
 When you start the venue search, prepare to ask a lot of questions. Here are a few to get you started:
 
 * What is the maximum capacity for the main room(s)? This determines how many people you can invite to the conference, which affects every single functional area.
 * What AV equipment is included in the rental? If AV is not included, can we use our own AV or do we need to go with a specific vendor (many times venues have a preferred vendor)? If we use our own, is there an additional charge?
-* What equipment is included in the rental? Some venues charge for each chair and table used, for tablecloths, etc., some don't. Identify every piece of furniture, included platform risers, podiums, etc. that you'll need to host the conference.
+* What equipment is included in the rental? Some venues charge for each chair and table used, for tablecloths, etc., some don't. Identify every piece of furniture, including platform risers, podiums, etc. that you'll need to host the conference.
 * What is the wifi situation? Is wifi included or is it extra? What's the bandwidth? Can the SSID be customized so that we can sell that as a sponsorhip?
 * Can we use our own food vendor? If the answer is yes, find out if there is a service charge for using an outside vendor. At the UT stadium we had to pay 20% of the food cost as a "tax" to the venue for using outside food vendors. Food is where most venues make their money, so expect to be locked into using their food.
 * How many entry points are there to the venue? Use this to decide where to locate registration.
 * Is there an open area / space to put sponsors? Sponsors need at least a 6 foot table. The number of sponsors you can fit in the venue directly affects the conference buget.
 * Does the venue supply power cables for sponsor tables or do we need to use our own?
-* What is the payment schedule? When is the deposit due? When is the final ammount due? What is the back-out and refund policy?
+* What is the payment schedule? When is the deposit due? When is the final amount due? What is the back-out and refund policy?
 * What is the emergency plan in case of tornadoes, earthquakes, etc?
-* What is the parking situation? Is free parking included? Can you prorate parking for guests or validate parking? 
+* What is the parking situation? Is free parking included? Can you prorate parking for guests or validate parking? Will folks need to put parking validation on their dash? What about motorcycles? Will handicapped attendees require an additional placard?
 * What is the shipping policy for the venue? Can sponsors ship their sponsor kits ahead of time? If not, where can they be shipped to? Is there a fee to handle shipped items? How do we ship items out when the conference is over?
-* What is the setup timeline? How early on the day before the conference can we get in to setup? How much time do we have? Is there a fee involved? Where do we load in and load out? Do they have dollies for us to use or do we need to grab our own?
+* What is the setup timeline? How early on the day before the conference can we get in to setup? How much time do we have? Is there a fee involved? Where do we load in and load out? Do they have dollies for us to use or do we need to bring our own?
 * Can we affix signage to the walls / doors? If not, we'll need to use free-standing signage. If yes, what kind of tape can we use?
 * How is the venue secured overnight? Do we need to hire a security guard?
 * Is there space to host a happy hour? If not, conduct a search of nearby places for happy hour.
@@ -66,20 +66,19 @@ When you start the venue search, prepare to ask a lot of questions. Here are a f
 
 ### 3 Months Out
 
-* Finalize the venue contract. It should include line items for everything you're paying for. Udpate the conference spreadsheet with the projected cost. After this point the only thing to update with the conference is the guest total. Keep an eye on ticket sales and adjust the contract (and costs) as needed.
+* Finalize the venue contract. It should include line items for everything you're paying for. Update the conference spreadsheet with the projected cost. After this point the only thing to update with the conference is the guest total. Keep an eye on ticket sales and adjust the contract (and costs) as needed.
 
 ### <1 Month Out
 
 * Pay the rest of the venue rental fee. Work with Conference Ops to get this paid via invoice.
 * Provide the venue with a list of all sponsors / exhibitors, and a list of all food vendors (coordinate with the food organizer).
 * Get conference insurance. We are required to provide a Certificate of Insurance (COI). It should cover DevOpsDays Austin and all of our exhibitors / sponsors. The minimum coverage required is a combined single limit of $1,000,000 per occurrence and a minimum aggregate of $1,000,000. In 2025 we went with [Lacey Katzer](mailto:lacey@yatesinsurance.com) of [Yates Insurance]. [Here's the COI from 2025.](https://drive.google.com/file/d/1mwXYbAU-IpzI1xmFY0fGtWiJ9qidUDfE/view?usp=drive_link)(http://www.yatesinsurance.com/). The COI must have the following language added:
->In the description section:
->"TCEA is included as additional insured where required by written contract for DeveopsDays Austin | MM-DD-YYYY - MM-DD-YYYY"
-
-> In the certificate holder section: 
-> TCEA Conference Center
->3100 Alvin Devane Blvd. Building B
->Austin, TX 78741
+   * In the description section:
+    > "<VENUE_NAME> is included as additional insured where required by written contract for DevopsDays Austin | MM-DD-YYYY - MM-DD-YYYY"
+   * In the certificate holder section: 
+    > <VENUE_NAME><BR>
+    > <VENUE_STREET_BLDG_ADDRESS><BR>
+    > <VENUE_CITY_STATE_ZIP>
 
 ### The Week Before
 
@@ -91,9 +90,10 @@ When you start the venue search, prepare to ask a lot of questions. Here are a f
 
 ### The Day Of
 
-* During the conference, make sure to check in with the venue to make sure everything is on schedule. Keep an eye on the other functional areas in case they need help with something from the venue. 
+* During the conference, make sure to check in with the venue to make sure everything is on schedule. Keep an eye on the other functional areas in case they need help with something from the venue.
+* If the venue requires printed parking slips on the dash (such as JJ Pickle), make sure the registration team has some extras hidden under the table and also some tape (folks will forget them, and in the case of JJ Pickle, motorcyclists will need to tape them to the bike).
 
-## Notes on Current Venue - Texas Computer Education Associate (TCEA)
+## Notes on Previous Venue - Texas Computer Education Associate (TCEA)
 
 The [TCEA](https://tcea.org/) is a non-profit that works primarily with educators to provide support for computer based education. Their conference center is advantageous for a couple of reasons:
 
